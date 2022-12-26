@@ -1,6 +1,11 @@
 # QRCode XColor
 
-_Note: This does not work with the qrcode version 7.3.1 in pypi, this library will install the version from the master branch at this commit https://github.com/lincolnloop/python-qrcode/tree/8a37658d68dae463479ee88e96ee3f1f53a16f54_
+_Note: This does not work with the qrcode version 7.3.1 in pypi. pypi will not allow git sources in the setup.py requirments so mush be manually installed_
+
+**Install qrcode from master branch**
+```bash
+pip install git+https://github.com/lincolnloop/python-qrcode.git@8a37658d68dae463479ee88e96ee3f1f53a16f54
+```
 
 This library recreates a few of the `moduledrawers` classes already found in https://github.com/lincolnloop/python-qrcode.  
 

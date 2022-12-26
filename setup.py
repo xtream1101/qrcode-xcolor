@@ -16,6 +16,6 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/xtream1101/qrcode-xcolor",
     install_requires=[
-        "qrcode @ git+https://github.com/lincolnloop/python-qrcode.git@8a37658d68dae463479ee88e96ee3f1f53a16f54",
+        "qrcode[pil]",
     ],
 )
