@@ -9,7 +9,7 @@ except FileNotFoundError:
 setup(
     name="qrcode-xcolor",
     packages=find_packages(),
-    version="0.1.0",
+    version="0.1.1",
     license="MIT",
     description="Custom QRCode Modules",
     long_description=long_description,
