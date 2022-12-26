@@ -1,6 +1,6 @@
 # QRCode XColor
 
-_Note: This does not work with the qrcode version 7.3.1 in pypi. pypi will not allow git sources in the setup.py requirments so mush be manually installed_
+_Note: This does not work with the qrcode version 7.3.1 in pypi. pypi will not allow git sources in the setup.py requirments so must be manually installed_
 
 **Install qrcode from master branch**
 ```bash
